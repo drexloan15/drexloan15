@@ -20,7 +20,7 @@ Mi trabajo se centra en sistemas que resuelven problemas reales de operación �
 
 - 🔭 Actualmente trabajo en dashboards de monitoreo y automatización con IA
 - 🌱 Aprendiendo arquitecturas de agentes y RAG aplicados a producto
-- 💬 Pregúntame sobre **React Query, FastAPI, PostgreSQL o integración de sistemas**
+
 
 ---
 
@@ -56,7 +56,7 @@ Mi trabajo se centra en sistemas que resuelven problemas reales de operación �
 
 ## Proyectos destacados
 
-### 📊 Dashboard de monitoreo de impresoras
+### Dashboard de monitoreo de impresoras
 Sistema de monitoreo en tiempo real con arquitectura de tres capas: un agente que consulta dispositivos por **SNMP**, una API en **FastAPI** que persiste en **PostgreSQL**, y un frontend **Next.js** que consume 15 endpoints.
 
 Incluye mapa de sedes con clustering (Leaflet), gráficos históricos (Recharts), sistema de alertas por email con protección anti-spam masivo, autenticación por PIN con rate limiting, y caché en cliente con React Query.
@@ -65,21 +65,21 @@ Incluye mapa de sedes con clustering (Leaflet), gráficos históricos (Recharts)
 
 ---
 
-### 🤖 Asistente conversacional con RAG
+### Asistente conversacional con RAG
 Backend en **FastAPI** con un vector store propio (sin dependencias compiladas) sobre `sentence-transformers`. Ingesta y procesa PDF, DOCX, XLSX e imágenes con OCR para responder consultas sobre documentación interna vía WhatsApp.
 
 `FastAPI` `sentence-transformers` `PyMuPDF` `pandas` `OCR` `RAG`
 
 ---
 
-### 🔍 Revisor de código multiagente
+### Revisor de código multiagente
 Herramienta que orquesta varios agentes de IA con el **SDK de Anthropic** para revisar código y reportar hallazgos priorizados.
 
 `Python` `Anthropic API` `Agentes`
 
 ---
 
-### 🌐 Sitio web corporativo
+### Sitio web corporativo
 Sitio institucional con múltiples landings de producto, capa **PHP** para formularios y sistema de includes en JS vanilla. Auditoría **SEO** completa: Schema.org en todas las páginas, metadatos y consistencia de marca.
 
 `HTML` `CSS` `JavaScript` `PHP` `SEO` `Schema.org`
