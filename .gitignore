@@ -1,0 +1,5 @@
+portfolio/node_modules/
+portfolio/.next/
+portfolio/out/
+portfolio/*.log
+portfolio/*.tsbuildinfo

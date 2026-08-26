@@ -8,15 +8,16 @@
 <p align="center">
   <a href="mailto:wespuccio1279@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/weslye-jean-pieers-puccio-angulo-38a115246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://drexloan15.github.io/drexloan15/"><img src="https://img.shields.io/badge/Portafolio-C8F55F?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portafolio"></a>
 </p>
 
 ---
 
 ## Sobre mí
 
-Construyo aplicaciones web de punta a punta: desde el frontend en **Next.js + React 19 + TypeScript** hasta APIs en **FastAPI** y bases de datos en **PostgreSQL**.
+Construyo aplicaciones web de punta a punta: desde el frontend en **Next.js + React + TypeScript** hasta servicios en **NestJS y FastAPI**, bases de datos en **PostgreSQL** y su puesta en producción.
 
-Mi trabajo se centra en sistemas que resuelven problemas reales de operación — monitoreo en tiempo real, dashboards con datos vivos, automatización de procesos e integración de servicios. He llevado proyectos completos desde el diseño de la base de datos hasta el despliegue en producción sobre Linux.
+Mi trabajo se centra en sistemas que resuelven problemas reales de operación — monitoreo en tiempo real, dashboards con datos vivos, automatización de procesos e integración de servicios. He llevado proyectos completos desde el diseño de la base de datos hasta el despliegue en producción sobre **Windows y Linux**.
 
 - 🔭 Actualmente trabajo en dashboards de monitoreo y automatización con IA
 - 🌱 Aprendiendo arquitecturas de agentes y RAG aplicados a producto
@@ -40,6 +41,7 @@ Mi trabajo se centra en sistemas que resuelven problemas reales de operación �
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -49,6 +51,7 @@ Mi trabajo se centra en sistemas que resuelven problemas reales de operación �
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
