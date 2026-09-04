@@ -19,8 +19,8 @@ Construyo aplicaciones web de punta a punta: desde el frontend en **Next.js + Re
 
 Mi trabajo se centra en sistemas que resuelven problemas reales de operación — monitoreo en tiempo real, dashboards con datos vivos, automatización de procesos e integración de servicios. He llevado proyectos completos desde el diseño de la base de datos hasta el despliegue en producción sobre **Windows y Linux**.
 
-- 🔭 Actualmente trabajo en dashboards de monitoreo y automatización con IA
-- 🌱 Aprendiendo arquitecturas de agentes y RAG aplicados a producto
+- Actualmente trabajo en dashboards de monitoreo y automatización con IA
+- Aprendiendo arquitecturas de agentes y RAG aplicados a producto
 
 
 ---
